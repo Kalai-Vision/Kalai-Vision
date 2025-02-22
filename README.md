@@ -7,7 +7,7 @@
 
 
 - 💬 Ask me about **Networking, Linux, Python, AWS**
-- 📫 Reach me at: **[kmugilan5@gmail.com](mailto:kmugilan5@gmail.com)**
+- 📫 Reach me at: **[kalaimugilan009@gmail.com](mailto:kalaimugilan009@gmail.com)**
 - ⚡ Fun fact: **I love traveling and aim to visit every country! I enjoy seeing how people connect through technology.**
 
 ---
