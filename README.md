@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=kalai-vision&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-- 🌱 I’m currently learning **Python for network automation**
+
 - 💬 Ask me about **Networking, Linux, Python, AWS**
 - 📫 Reach me at: **[kmugilan5@gmail.com](mailto:kmugilan5@gmail.com)**
 - ⚡ Fun fact: **I love traveling and aim to visit every country! I enjoy seeing how people connect through technology.**
@@ -64,7 +64,7 @@ I’m always eager to learn new skills and tools. Outside of work, I love explor
 
 ### Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-id" target="blank">
+  <a href="https://www.linkedin.com/in/kalaimugilan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
